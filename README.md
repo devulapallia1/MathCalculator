@@ -7,3 +7,7 @@ Data-Driven Testing: Parameterize test cases using Excel or JSON files.
 Cross-Browser Testing: Support testing on Chrome, Firefox, and Edge.
 Reporting: Generate detailed HTML reports using TestNG.
 CI/CD Integration: Set up integration with GitHub Actions for automated test runs.
+The files uploaded are 
+1.PercentCalculator.java
+2.PercentJunit.java
+3.PercentTestNg.java
